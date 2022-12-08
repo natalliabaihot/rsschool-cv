@@ -16,7 +16,7 @@ ____________________________________________________________
 * HTML (basic level)
 * CSS (basic level)
 * Git/GitHub
-* VS Code>
+* VS Code
 ## Code Example
 ```
 for (int i=0; i<10; i++)
@@ -31,7 +31,7 @@ for (int i=0; i<10; i++)
 
 ## Education
 
-### *University: Yanka Kupala Grodno State University
+*University: Yanka Kupala Grodno State University
 *Courses:
     *1. [Basics of programming](https://ru.hexlet.io/courses/programming-basics/summary).
     *2. [Introduction to Git](https://ru.hexlet.io/courses/intro_to_git/lessons/github/theory_unit).
@@ -39,11 +39,10 @@ for (int i=0; i<10; i++)
     *4. [JavaScript](https://www.youtube.com/watch?v=Glux40jBsZ8).
     *5. [RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)](https://app.rs.school/course/schedule?course=js-fe-preschool-2022q2).
 
-    ## Languages
-
-    *Russian 
-    *Polish
-    *English (in progress)
+## Languages
+*Russian 
+*Polish
+*English (in progress)
 
   ![RSSchool](https://www.ibrasfor.com.br/webroot/cur_cursos/recrutamento-e-selecao-1589744722.png)
     
