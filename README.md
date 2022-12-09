@@ -1,2 +1,1 @@
-# rsschool-cv
-https://natalliabaihot.github.io/rsschool-cv/cv
+https://natalliabaihot.github.io/rsschool-cv/
