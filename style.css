@@ -1,0 +1,10 @@
+@font-face{ 
+    font-family: 'MyFont';
+    src: url('myfont.eot');
+    src: url('myfont.eot?#iefix') format('embedded-opentype'),
+      url('myfont.woff') format('woff'),
+      url('myfont.ttf') format('truetype'),
+      url('myfont.svg#webfont') format('svg');
+  }
+  
+  h1 { font-family: 'MyFont', sans-serif; }
